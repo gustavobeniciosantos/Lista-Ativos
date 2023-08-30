@@ -43,6 +43,9 @@ public class ListActive {
             case 0:
                 write("Obrigado!");
                 rep = false;
+            default:
+                write("Opção incorreta");
+                write("");
         }
 
 
