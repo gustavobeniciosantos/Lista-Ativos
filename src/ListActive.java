@@ -23,9 +23,11 @@ public class ListActive {
             stack.pop();
             break;
             case 3:
+
+            System.out.println(stack.get(0).getName() + "---" + stack.get(1).getName());
            boolean active =  customer.isActive();
 
-
+                
 
                for(int i = 0; i < stack.size(); i++){
                    if(active == true) {

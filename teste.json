@@ -1,0 +1,26 @@
+{
+    Ref: 'testeteste',
+    personal: {
+        name: 'rafa',
+        mail: 'rafa@gmail.com',
+        birthday: '03/10/1999'
+     }
+    adress: {
+        street: 'rua sla da casa sla',
+        city: 'pirituba'
+     }
+    identity: {
+        rg: '732128172139721',
+        org: 'ssp'
+    }
+    family: {
+        mother: {
+            nameMother: 'cassia',
+            cpfMother: '431412'
+        }
+        father: {
+            nameFather: 'Carlos',
+            cpfFather: '1432141121'
+        }
+    }
+}
